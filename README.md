@@ -44,10 +44,12 @@ npm run build
 4. View detected objects with bounding boxes and tracking IDs
 5. Monitor statistics in the dashboard
 
+<img width="688" height="706" alt="Screenshot 2025-08-09 135510" src="https://github.com/user-attachments/assets/db28e8d2-7756-44cb-9e03-7dc224108e77" />
+
+
 ## 👤 Author
 
-**Created by**: [Your Name]  
-**LinkedIn**: [Your LinkedIn Profile URL]
+**Created by**: Hamza Abdul Karim 
 
 ## 🤝 Contributing
 
@@ -57,7 +59,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Project Links
+## 🔗 Project Links 
 
 - [Live Demo](http://localhost:5173)
-- [GitHub Repository]([repository-url])
+- GitHub Repository: (https://github.com/Hamza35779/Object-Detection-and-Tracking--CodeAlpha)
